@@ -16,5 +16,3 @@
 
 ## Stats:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Basti25.png" alt="TryHackMe">
-
-[![Bastifpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastiFpv&theme=synthwave)](https://github.com/BastiFpv)
